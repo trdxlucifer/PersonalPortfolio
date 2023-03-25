@@ -1,12 +1,13 @@
 
 import './App.css'
+import AppRouter from './Router/AppRouter'
 
 function App() {
 
 
   return (
   <div>
-    3 d Portfolio
+  <AppRouter/>
   </div>
   )
 }
