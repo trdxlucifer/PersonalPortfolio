@@ -23,7 +23,8 @@ const Hero = () => {
             enthusiast in web development
           </p>
         </div>
-        
+       
+       <ComputersCanvas/>
       </div>
     </section>
   );
